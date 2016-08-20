@@ -6,16 +6,16 @@ Contraption Maker.
 
 # Requirements
 
+[GEOS]: http://trac.osgeo.org/geos
+[shapely]: https://github.com/Toblerity/Shapely
+[tesseract]: https://github.com/tesseract-ocr
+[pytesseract]: https://pypi.python.org/pypi/pytesseract/0.1
+
 CMAnalytics requires
 
   - Python>=2.6 (has not been tested with Python 3)
   - [GEOS] (required by [shapely])
   - [tesseract] (required by [pytesseract])
-
-[GEOS]: http://trac.osgeo.org/geos
-[shapely]: https://github.com/Toblerity/Shapely
-[tesseract]: https://github.com/tesseract-ocr
-[pytesseract]: https://pypi.python.org/pypi/pytesseract/0.1
 
 # Installation
 
